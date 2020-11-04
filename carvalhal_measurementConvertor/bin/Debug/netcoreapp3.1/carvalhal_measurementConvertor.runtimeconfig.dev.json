@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dacar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dacar\\.nuget\\packages"
+    ]
+  }
+}
